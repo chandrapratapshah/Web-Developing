@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    text-decoration:wavy blue overline;
+}
+h2 {
+    text-align: end;
+    font-weight: 800;
+    text-decoration: dotted line-through;
+}
+p {
+    text-align: start;
+    font-weight: 400;
+    text-decoration:yellow underline;
+}
+
+a {
+    text-decoration: none;
+}

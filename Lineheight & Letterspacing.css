@@ -1,0 +1,15 @@
+h1 {
+    letter-spacing: normal;
+    font-family: Georgia;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,;
+}
+p {
+    line-height: normal;
+    font-family:tahoma ;
+    font-size: 15px;
+}
+
+/* 96px = 1inch 
+pixel is not use for responsive website. (responsive wbsite which size may change )*/
